@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
-<h3 align="center">A Passionate Frontend Developer from India building Amazing User Interfaces</h3>
+<h3 align="center">A Passionate Fullstack Developer from India building Amazing and full-fledged</h3>
 
-- 🔭 I’m currently working on **An Admin Panel for a Extension Company**
+- 🔭 I’m currently working on building a fullstack website for a service providing company.
 
-- 🌱 I’m currently learning **Frontend Libraries and starting with Mobile Development also**
+- 🌱 I’m currently learning Databases more in depth.**
 
 - 👨‍💻 All of my projects are available at [https://ayush-srivastava-portfolio.netlify.app/](https://ayush-srivastava-portfolio.netlify.app/)
 
-- 💬 Ask me about **ReactJS , Material-Ui , Javascript, React Native**
+- 💬 Ask me about **ReactJS, NextJS , Material-Ui , Javascript , Express, NodeJS**
 
 - 📫 How to reach me **ayushacp2051@gmail.com**
 
