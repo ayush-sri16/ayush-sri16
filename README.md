@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ayush Srivastava</h1>
-<h3 align="center">A Passionate Fullstack Developer from India building Amazing and full-fledged</h3>
+<h3 align="center">A Passionate Fullstack Developer from India building Amazing and full-fledged Web Applications.</h3>
 
 - 🔭 I’m currently working on building a fullstack website for a service providing company.
 
